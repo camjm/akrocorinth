@@ -1,0 +1,26 @@
+{
+  "name": "akrocorinth",
+  "description": "angular application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve --listen 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camjm/akrocorinth.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "netlify"
+  ],
+  "author": "camjm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camjm/akrocorinth/issues"
+  },
+  "homepage": "https://github.com/camjm/akrocorinth#readme",
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
